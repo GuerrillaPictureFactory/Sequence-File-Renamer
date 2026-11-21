@@ -1,0 +1,16 @@
+{
+  "name": "Guerrilla Picture Factory — Sequence File Renamer",
+  "short_name": "Sequence Renamer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "./app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
